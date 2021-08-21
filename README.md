@@ -14,4 +14,4 @@ if you encounter a problem, you can contact discord.
 
 
 <img src='https://github-readme-stats.vercel.app/api?username=rootkeygen&&show_icons=true&title_color=353a40&icon_color=353a40&text_color=353a40&bg_color=e6e6e6'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rootkeygen&layout=compact)](https://github.com/anuraghazra/github-readme-stats'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats'>
