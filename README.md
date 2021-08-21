@@ -10,7 +10,7 @@ Skills: React / CSS / VUE.JS / PHP / JAVASCRIPT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rootkeygen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@k3ygen1)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rootkeygen)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rootkeygen&show_icons=true)  
 
