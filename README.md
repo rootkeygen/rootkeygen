@@ -10,3 +10,6 @@ https://medium.com/@rootkeygen
 Discord keygen#8019
 
 if you encounter a problem, you can contact discord.
+
+
+https://github-readme-stats.vercel.app/api?username=rootkeygen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
