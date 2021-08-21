@@ -10,7 +10,7 @@ https://medium.com/@rootkeygen
 Discord keygen#8019
 
 if you encounter a problem, you can contact discord.
+![keygen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootkeygen&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootkeygen&hide=contribs,prs)
 
 <img src='https://github-readme-stats.vercel.app/api?username=rootkeygen&&show_icons=true&title_color=353a40&icon_color=353a40&text_color=353a40&bg_color=e6e6e6'>
