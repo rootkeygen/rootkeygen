@@ -9,7 +9,7 @@ Skills: React / CSS / VUE.JS / PHP / JAVASCRIPT
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rootkeygen&show_icons=true)  
 
